@@ -66,7 +66,7 @@ Eli raudan paikalla on nyt siis X220, eli koulukoneeni tiedot: https://github.co
 # C) Uusien ohjelmien testaus
 
 #### NeoFetch [9] | Yksinkertainen järjestelmä ja käyttöjärjestelmätietojen näyttö
-Tuleekin todennäköisesti tarpeeseen usein.. Useamman virtuaalipalvelimen kanssa ilman lxc:tä, Dockereita tai Kubernetejä tai mitään muuta monen palvelimen hallintaan tarkoitettua sovellusta unohtaa aina välillä mikä tarkka versio Ubuntusta tai Debianista olikaan käytössä. **Uname -a** &**lsb_release -a** komennoilla selviää Kernel ja distron versio. **lscpu** komennolla selvittää prosessorin mallin ja tiedot, **top:lla** ja **htop:lla** selviää muistinkäyttö. NeoFetchillä selviää kuitenkin nämä kaikki ja vähän lisää.
+Tuleekin todennäköisesti tarpeeseen usein.. Useamman virtuaalipalvelimen kanssa ilman lxc:tä, Dockereita tai Kubernetejä tai mitään muuta monen palvelimen hallintaan tarkoitettua sovellusta unohtaa aina välillä mikä tarkka versio Ubuntusta tai Debianista olikaan käytössä. **Uname -a** & **lsb_release -a** komennoilla selviää Kernel ja distron versio. **lscpu** komennolla selvittää prosessorin mallin ja tiedot, **top:lla** ja **htop:lla** selviää muistinkäyttö. NeoFetchillä selviää kuitenkin nämä kaikki ja vähän lisää.
 NeoFetchin voi asentaa lisäämällä PPA:n:
 sudo add-apt-repository ppa:dawidd0811/neofetch
 sudo apt update
@@ -76,9 +76,7 @@ sudo apt install neofetch
 Peek on erittäin helppokäyttöinen ja tehokas ohjelma pienien ruutukaappausvideoiden tekoon. Videot voi tehdä GIF, WebM tai mp4 -muotoon. Ensimmäinen on yhteensopiva melkein minkä tahansa selaimen kanssa (paitsi lynx tai links jne) ja WebM sekä mp4-videot toistuvat uusimmilla HTML5:sta tukevilla selaimilla ilman ongelmia.
 Peekin voi asentaa Ubuntuun lisäämällä PPA:n:
 Peekillä tälläisen luominen onnistui alle kahdessa minuutissa sovelluksen asentaminen mukaanlukien:
-![alt text](https://rkantos.github.io/www/peek-testi.gif "apt-get")
-
-![Peek:n nopea testaus]({{https://rkantos.github.io}}/www/peek-testi.gif)
+![Peek:n nopea testaus](https://rkantos.github.io/www/peek-testi.gif "apt-get")
 
 sudo add-apt-repository ppa:peek-developers/stable
 sudo apt update
@@ -120,6 +118,22 @@ Windowsilla ja Linuxilla käytän Teamvieweriä, joka on ehdottomasti tämän he
 Silloin tällöin käytän myös eri VNC-ohjelmia ja palvelimia, kuten TightVNC:tä ja TigerVNC:tä. Viimeaikoina olen kokeillut myös RDP:tä Linuxilla xRDP:llä. Teamviewer on kuitenkin edelleen kätevin ja tuskattomin, johtuen Teamviewerin palomuurien läpäisykyvystä. Samanlaista avoimen lähdekoodin versiota RDP:stä tai vaikka VNC:stä odotellessa...
 
 ### Lähteet |
+
+[1]: https://www.asus.com/fi/Stick-PCs/QM1/specifications/
+[2]: https://www.linuxquestions.org/questions/linux-hardware-18/asus-stick-pc-qm1-4175574279/#post5656074
+[3]: https://www.chromium.org/developers/how-tos/api-keys
+[4]: https://askubuntu.com/questions/225930/how-do-i-get-the-latest-beta-and-development-version-of-chromium
+[5]: https://github.com/jomo/imgur-screenshot
+[6]: https://www.spotify.com/fi/download/linux/
+[7]: https://archive.is/20161008213028/https://wiki.winehq.org/FAQ%23Does_Wine_support_.NET.3F_Should_I_install_native_.NET_in_Wine.3F
+[8]: http://www.javiersantos.me/post/82199053318/download-for-win-os-x-turn-back-to-the-previous-spotify
+[9]: https://github.com/dylanaraps/neofetch
+[10]: https://github.com/phw/peek
+[11]: https://github.com/jml/undistract-me
+[12]: https://www.sofokus.com/blogi/avoin-lahdekoodi/
+[13]: https://www.gnu.org/philosophy/free-sw.html
+[14]: https://www.gnu.org/licenses/license-list.html#Expat
+[15]: https://linuxiumcomau.blogspot.com/2017/06/customizing-ubuntu-isos-documentation.html
 
 [1: https://www.asus.com/fi/Stick-PCs/QM1/specifications/
 
