@@ -96,7 +96,7 @@ undistract-me käyttää Expat/MIT-lisenssiä, joka on yhteensopiva GPL:n kanssa
 # E) Linuxilla käyttämäni ohjelmat
 
 #### Nettiselain |
-Windowsilla käytän luonnollisesti Chromea, kuten kuka tahansa Googlen palveluita käyttävä. Google vain tuntuu johtaneen kehitystä selaimissa jo lähes vuosikymmenen! Ubuntulle ja muille Distroille on toki saatavissa Chrome, mutta Chromium ainakin "yrittää" olla avoimeen lähdekoodiin perustuva. Suurin osa Chromiumin lähdekoodista on BSD- ja MIT-lisensseihin perustuvaa. Chromium on siinä mielessä hyvä että se sopii ainakin jonkinlaiseen "foliohattuiluun", sillä oletuksena monet Googlen palveluihin nojaavat toiminnot eivät (2013 jälkeen[3]) ilman kikkailua enää toimi [4]
+Windowsilla käytän luonnollisesti Chromea, kuten kuka tahansa Googlen palveluita käyttävä. Google vain tuntuu johtaneen kehitystä selaimissa jo lähes vuosikymmenen! Ubuntulle ja muille Distroille on toki saatavissa Chrome, mutta Chromium ainakin "yrittää" olla avoimeen lähdekoodiin perustuva. Suurin osa Chromiumin lähdekoodista on BSD- ja MIT-lisensseihin perustuvaa. Chromium on siinä mielessä hyvä että se sopii ainakin jonkinlaiseen "foliohattuiluun", sillä oletuksena monet Googlen palveluihin nojaavat toiminnot eivät (2013 jälkeen [3] ) ilman kikkailua enää toimi [4]
 
 #### Tekstinkäsittely & toimistosovellukset |
 Omalla dualboot Ubuntu-kannettavalla käytän hyvin harvoin MS Wordiin verrattavissa olevia tekstinkäsittelyohjelmia. Pääosin käytänkin Nextcloudin kanssa hyvin yhteen pelaavaa **QOwnNotesia, Google Docsia Chromiumilla, Katea** (KDE:n ylläpitämä Notepad++ tyyppinen tekstieditori) ja tietenkin komentokehotteessa **Nanoa**. 
