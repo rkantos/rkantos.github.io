@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.5.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-08-29T12:40:41+03:00</updated><id>http://localhost:4000/</id><title type="html">Rkantos’s projects and endeavors in mostly educational times</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.5.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-08-30T14:00:22+03:00</updated><id>http://localhost:4000/</id><title type="html">Rkantos’s projects and endeavors in mostly educational times</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 </subtitle><entry><title type="html">Linux palvelimet ICT4TN021 2017 H1</title><link href="http://localhost:4000/2017/08/28/Linux-Palvelimet-H1.html" rel="alternate" type="text/html" title="Linux palvelimet ICT4TN021 2017 H1" /><published>2017-08-28T00:00:00+03:00</published><updated>2017-08-28T00:00:00+03:00</updated><id>http://localhost:4000/2017/08/28/Linux-Palvelimet-H1</id><content type="html" xml:base="http://localhost:4000/2017/08/28/Linux-Palvelimet-H1.html">&lt;h1 id=&quot;publish-h1-2282017-livetikku&quot;&gt;Publish H1 22.8.2017 ‘Livetikku’&lt;/h1&gt;
 &lt;p&gt;========================&lt;/p&gt;
 
@@ -68,7 +68,7 @@ sudo apt install neofetch&lt;/p&gt;
 &lt;p&gt;Peek on erittäin helppokäyttöinen ja tehokas ohjelma pienien ruutukaappausvideoiden tekoon. Videot voi tehdä GIF, WebM tai mp4 -muotoon. Ensimmäinen on yhteensopiva melkein minkä tahansa selaimen kanssa (paitsi lynx tai links jne) ja WebM sekä mp4-videot toistuvat uusimmilla HTML5:sta tukevilla selaimilla ilman ongelmia.
 Peekin voi asentaa Ubuntuun lisäämällä PPA:n:
 Peekillä tälläisen luominen onnistui alle kahdessa minuutissa sovelluksen asentaminen mukaanlukien:
-&lt;img src=&quot;https://rkantos.github.io/www/peek-testi.gif&quot; alt=&quot;Peek:n nopea testaus&quot; title=&quot;apt-get&quot; /&gt;&lt;/p&gt;
+&lt;img src=&quot;https://rkantos.github.io/blog/peek-testi.gif&quot; alt=&quot;Peek:n nopea testaus&quot; title=&quot;apt-get&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;sudo add-apt-repository ppa:peek-developers/stable
 sudo apt update
